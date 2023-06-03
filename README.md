@@ -17,4 +17,6 @@ Here are some ideas to get you started:
 
 <!-- <a href="[연결할 링크]" target="_blank"><img src="https://img.shields.io/badge/[쓰고 싶은 텍스트]-[컬러 코드]?style=flat-square&logo=[브랜드 이름]&logoColor=white"/></a> -->
 
-<a href="https://jihwan98.github.io/" target="_blank"><img src="https://img.shields.io/badge/Blog-D77310?style=flat-square&logo=blogger&logoColor=white"/></a>
+
+- 👨‍💻 My Blog : https://jihwan98.github.io/
+- 🌱 RESUME : [RESUME](https://www.notion.so/jihwan98/bfced921a7264fd4b1c900e95d5529b9?pvs=4)
