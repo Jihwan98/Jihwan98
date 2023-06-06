@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 ### Software Engineer 꾸준히 성장하는 개발자 박지환입니다. 👋
 
 - 👨‍💻 My Blog : https://jihwan98.github.io/
-- 🌱 RESUME : [RESUME](https://www.notion.so/jihwan98/bfced921a7264fd4b1c900e95d5529b9?pvs=4)
+- 🌱 RESUME : [RESUME](https://www.notion.so/jihwan98/6642e03394f04de6b5bb1f58863d36da?pvs=4)
 <br>
 
 - (2023.02 ~) KT Aivle School 3기 AI Track (진행 중)
